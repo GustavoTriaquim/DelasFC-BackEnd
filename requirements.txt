@@ -11,10 +11,12 @@ ecdsa==0.19.0
 Flask==3.1.0
 Flask-Cors==5.0.0
 Flask-PyMongo==3.0.0
+gunicorn==23.0.0
 intelhex==2.3.0
 itsdangerous==2.2.0
 Jinja2==3.1.5
 MarkupSafe==3.0.2
+packaging==24.2
 pycparser==2.22
 pymongo==4.11
 pyserial==3.5
